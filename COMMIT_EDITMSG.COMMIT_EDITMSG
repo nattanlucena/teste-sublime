@@ -1,0 +1,14 @@
+Commit inicial
+
+# --------------
+# Please enter the commit message for your changes. Everything below
+# this paragraph is ignored, and an empty message aborts the commit.
+# Just close the window to accept your message.
+diff --git a/Teste inicial - Sublime - Git.txr b/Teste inicial - Sublime - Git.txr
+new file mode 100644
+index 0000000..de693f6
+--- /dev/null
++++ b/Teste inicial - Sublime - Git.txr
+@@ -0,0 +1 @@
++Teste inicial - Sublime - Git
+\ No newline at end of file
